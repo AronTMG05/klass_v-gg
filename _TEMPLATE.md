@@ -1,7 +1,7 @@
 # [Github konto namn]
 
-**Min favorit teknologi:** (t.ex. ett programmeringsspråk, sak, pryl eller uppfinning)
+**Min favorit teknologi:** Min Dator som jag har byggt själv
 
-**Mitt mål med kursen:** (t.ex. att lära mig Linux, se en robot)
+**Mitt mål med kursen:** Att utvidga mina programmerings kunskaper och lära mig använda andra operativsystem än windows
 
-**En rolig fakt:** (t.ex. Jag läste rubriks kub en gång eller den där gång jag återföddes som en slime)
+**En rolig fakt:** Jag kan lösa ganska många olika rubiks kuber bl.a. 2x2, 3x3, 4x4, 5x5
